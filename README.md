@@ -17,7 +17,3 @@ record.Spin(seconds = rotationInterval);
 await record.Research(researcher = this.User, search = "Voyager ${singleRotation.Format("#.#####")}");
 
 Console.WriteLine("Hello World!");
-
-Solution:
-Voyager golden record binary arithmetic: https://stackoverflow.com/questions/67543691/voyager-golden-record-binary-arithmetic
-"Greeting from Kurt Waldheim, Secretary-General of the United Nations": https://www.youtube.com/watch?v=eYOyA5kUFkk
